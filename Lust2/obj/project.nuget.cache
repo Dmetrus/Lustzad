@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOUt9SWvXSaLrEzWbB5IE/dAPZF4yNXumFPpdKmpjRe25qdJfTnib7l213SMBwDOG6vVm+x5SkCWaZG1WAJ2FQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\tuzka\\source\\repos\\Lust\\ASPAirport.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"C:\\Users\\tuzka\\source\\repos\\BibliotekaSamolet\\bin\" не существует.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
